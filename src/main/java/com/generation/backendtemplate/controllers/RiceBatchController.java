@@ -52,4 +52,6 @@ public class RiceBatchController
 		ch.deleteBatch(id);
 		return id;
 	}
+
+
 }
